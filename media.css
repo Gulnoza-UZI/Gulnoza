@@ -1,0 +1,23 @@
+@media (max-width:600px){
+    .root{
+        display: flex;
+        width: 250px;
+    }
+    .container-glav h1 {
+        display: flex;
+        font-size: 30px;
+    }
+    .button {
+        gap: 10px;
+        width: 300px;
+        font-size: 10px;
+    }
+}
+@media (max-width:600px){
+    .good {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin: 10px;
+    }
+}
